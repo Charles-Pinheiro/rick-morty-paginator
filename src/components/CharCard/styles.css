@@ -1,0 +1,28 @@
+.card {
+    height: 250px;
+    width: 180px;
+    padding: 10px;
+    border: 1px solid #DDD;
+    margin: 10px;
+    background-color: aliceblue;
+    color: cadetblue;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 3px 1px 15px 0;
+}
+
+.picture {
+    height: 130px;
+    width: 140px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 13px;
+    color: rgb(158, 152, 152);
+}
+
+span {
+    color: cadetblue;
+}
